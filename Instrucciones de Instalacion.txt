@@ -1,0 +1,15 @@
+﻿Descripción
+
+Estos archivos serviran para obtener un csv de los Tweets que contienen la palabra "Zacarias Irun". Con estos datos podemos analizar que siente la gente al tweetear.
+
+Instalación
+
+Descargaremos el proyecto con el botón verde "Clonar o Descargar". El proyecto se encuentra zipeado en el repositorio, pero también puedes ejecutar la función desde la línea de comando llamando al intérprete con el archivo twitterData.py 
+
+Descripción del Programa
+Se agarran un numero de Tweets que contengan la palabra "Zacarias Irun"  Se extraen los datos de cada proyecto en una tabla en formato csv.
+Ejecutando este programa se creará automáticamente un archivo llamado result.csv en la carpeta del archivo. 
+
+Requerimientos
+- Interprete de Python
+- Librerias como os, tweepy y panda
